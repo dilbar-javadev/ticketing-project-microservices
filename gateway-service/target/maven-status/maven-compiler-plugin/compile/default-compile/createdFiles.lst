@@ -1,1 +1,3 @@
+com/cydeo/config/SecurityConfig.class
+com/cydeo/config/KeycloakRoleConverter.class
 com/cydeo/GatewayServerApplication.class
