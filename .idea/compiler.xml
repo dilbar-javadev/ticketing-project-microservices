@@ -35,7 +35,7 @@
       <module name="project-service" options="-parameters" />
       <module name="task-service" options="-parameters" />
       <module name="ticketing-project-microservices" options="-parameters" />
-      <module name="ticketing-project-microservices (1)" options="" />
+      <module name="ticketing-project-microservices (1)" options="-parameters" />
       <module name="user-service" options="-parameters" />
     </option>
   </component>
